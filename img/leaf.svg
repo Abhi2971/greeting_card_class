@@ -1,0 +1,28 @@
+<svg width="397" height="559" viewBox="0 0 357 621" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#E9F0F5"/>
+
+  <!-- Red spots -->
+  <circle cx="40" cy="50" r="8" fill="#C9432D"/>
+  <circle cx="60" cy="70" r="8" fill="#C9432D"/>
+  <circle cx="20" cy="90" r="8" fill="#C9432D"/>
+  <circle cx="30" cy="600" r="8" fill="#C9432D"/>
+  <circle cx="55" cy="590" r="8" fill="#C9432D"/>
+
+  <!-- Leaf -->
+  <path d="M300 550 
+           C 270 520, 240 540, 210 520 
+           C 180 500, 150 530, 120 550 
+           C 150 500, 180 470, 210 450 
+           C 230 430, 260 410, 290 430 
+           C 320 450, 350 480, 300 550 Z" 
+        fill="#4A6B4E" />
+  <path d="M290 540 
+           L 250 500 
+           M 250 500 
+           L 210 460 
+           M 210 460 
+           L 170 420" 
+        stroke="#2E5233" 
+        stroke-width="2"/>
+</svg>
